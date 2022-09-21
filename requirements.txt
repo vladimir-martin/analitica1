@@ -2,6 +2,6 @@ pandas
 plotly
 streamlit
 datetime
-pydeck
+pydeck==0.7.1
 
 
